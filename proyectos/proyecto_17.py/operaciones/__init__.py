@@ -1,0 +1,1 @@
+__all__ = ["suma","resta","division", "multiplicacion", "modulo", "exponente"]
